@@ -17,9 +17,6 @@ My work revolves around designing scalable architectures, automating deployments
 ## 🚀 What I'm Building
 
 ### 🧩 Serverless Task Manager (AWS)
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*QnKz2v6Z2qY9ycYzaO6F0w.png" width="600"/>
-</p>
 
 - Built a **serverless backend** using AWS Lambda + API Gateway  
 - Used **DynamoDB** for scalable NoSQL storage  
@@ -32,9 +29,6 @@ My work revolves around designing scalable architectures, automating deployments
 ---
 
 ### ⚙️ Kubernetes-Based Task Manager (3-Tier App)
-<p align="center">
-  <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="400"/>
-</p>
 
 - Built a **3-tier microservices app** (React + Node.js + MongoDB)  
 - Containerized using **Docker**  
