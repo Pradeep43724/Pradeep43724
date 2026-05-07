@@ -10,7 +10,7 @@
 
 ## About Me
 
-Cloud engineering learner focused on building real-world AWS infrastructure and containerized applications.
+Cloud learner focused on building real-world AWS infrastructure and containerized applications.
 
 Current areas of focus:
 - AWS Architecture
@@ -19,9 +19,6 @@ Current areas of focus:
 - Linux & Bash Automation
 - CI/CD Fundamentals
 
-The goal is to move beyond tutorial projects and build production-style systems with scalability, automation, and security in mind.
-
----
 
 ## Featured Projects
 
