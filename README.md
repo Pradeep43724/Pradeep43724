@@ -1,87 +1,109 @@
-<h1 align="center">Hey there, I'm Pradeep 👋</h1>
+<h1 align="center">Pradeep | AWS & Cloud Engineer</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-SAA--C03%20Certified-orange?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Cloud-Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Cloud-Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Docker-informational?style=for-the-badge"/>
 </p>
 
 ---
 
-## ☁️ Cloud Engineer | Building Scalable Systems on AWS
+## About Me
 
-I’m an AWS Certified Solutions Architect Associate focused on building real-world, production-style cloud applications.  
-My work revolves around designing scalable architectures, automating deployments, and understanding how systems behave under load.
+Cloud engineering learner focused on building real-world AWS infrastructure and containerized applications.
 
----
+Current areas of focus:
+- AWS Architecture
+- Docker & Kubernetes
+- Terraform
+- Linux & Bash Automation
+- CI/CD Fundamentals
 
-## 🚀 What I'm Building
-
-### 🧩 Serverless Task Manager (AWS)
-
-- Built a **serverless backend** using AWS Lambda + API Gateway  
-- Used **DynamoDB** for scalable NoSQL storage  
-- Configured **IAM roles** with least privilege  
-- Implemented **CORS & API routing** for frontend communication  
-- Optimized performance using **CloudFront caching**
-
-👉 Focus: Event-driven architecture, cost efficiency, scalability  
+The goal is to move beyond tutorial projects and build production-style systems with scalability, automation, and security in mind.
 
 ---
 
-### ⚙️ Kubernetes-Based Task Manager (3-Tier App)
+## Featured Projects
 
-- Built a **3-tier microservices app** (React + Node.js + MongoDB)  
-- Containerized using **Docker**  
-- Deployed on **Kubernetes (Minikube + EKS)**  
-- Implemented **service discovery & load balancing**  
-- Used **AWS ECR** for image storage  
+### Kubernetes-Based 3-Tier Application
 
-👉 Focus: Container orchestration, networking, deployment strategies  
+Tech Stack: React • Node.js • MongoDB • Docker • Kubernetes • AWS ECR
 
----
+- Built and containerized a 3-tier microservices application
+- Deployed workloads using Kubernetes services and pods
+- Implemented service discovery and load balancing
+- Managed container images using AWS ECR
+- Practiced orchestration concepts with Minikube and EKS
 
-## ✅ What I've Completed
-
-- Static Website Hosting → **S3 + CloudFront + Route 53**  
-- CI/CD Basics → Jenkins pipeline setup  
-- Linux + Bash Automation scripts  
+Repository:
+https://github.com/Pradeep43724/Containerizing-a-web-application-using-kubernetes
 
 ---
 
-## 🛠️ Tech Stack
+### Three-Tier Cloud Notes Application
+
+Tech Stack: AWS • EC2 • Networking • Linux
+
+- Designed a scalable multi-tier application architecture
+- Worked with frontend, backend, and database separation
+- Configured infrastructure components and deployment flow
+- Practiced cloud networking and server management concepts
+
+Repository:
+https://github.com/Pradeep43724/three-tier-cloud-notes-app
+
+---
+
+### Terraform AWS Infrastructure Project
+
+Tech Stack: Terraform • AWS • Nginx
+
+- Provisioned AWS resources using Infrastructure as Code
+- Automated deployment of a web server environment
+- Learned reusable and modular infrastructure concepts
+
+Repository:
+https://github.com/Pradeep43724/terraform-aws-nginx-web-server
+
+---
+
+## Technical Skills
 
 ### Cloud & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux"/>
-</p>
+- AWS
+- Terraform
+- Docker
+- Kubernetes
+- Linux
 
-### Programming & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,git"/>
-</p>
-
----
-
-## 📜 Certifications
-
-- AWS Certified Solutions Architect – Associate (SAA-C03)  
-- Claude AI Certification  
-- Linux & SQL (Coursera)
+### Tools & Scripting
+- Git & GitHub
+- Bash
+- Python
+- Jenkins
 
 ---
 
-## 📈 Current Focus
+## Certifications
 
-- Advanced AWS Architecture (VPC, Networking, Security)  
-- Kubernetes (EKS Production Setup)  
-- CI/CD Pipelines (Jenkins + GitHub Actions)
+- AWS Certified Solutions Architect – Associate (SAA-C03)
+- Claude AI Certification
+- Linux & SQL Certifications (Coursera)
+
+---
+
+## Current Learning Path
+
+- Advanced AWS Networking & Security
+- Kubernetes Production Workflows
+- GitHub Actions & CI/CD Pipelines
+- Monitoring & Logging
+- Infrastructure Automation
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
-- 📧 Email: pradeep43724@gmail.com  
-- 💼 LinkedIn:https://www.linkedin.com/in/pradeep12345/ 
-- 💻 GitHub: https://github.com/Pradeep43724
-
----
+- LinkedIn: https://www.linkedin.com/in/pradeep12345/
+- GitHub: https://github.com/Pradeep43724
+- Email: pradeep43724@gmail.com
