@@ -1,4 +1,4 @@
-<h1 align="center">Pradeep | AWS & Cloud Engineer</h1>
+<h1 align="center">Pradeepan A | AWS & Cloud Engineer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazonaws"/>
